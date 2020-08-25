@@ -6,6 +6,7 @@ This means that TNT duplicators for farmes are still functional, but the world i
 - Runs on the latest Minecraft version.
 - Multiplayer compatible.
 - Efficient (no lags).
+- Configurable.
 - TNT for farms and mining still work.
 - No conflicts with other datapacks.
 
