@@ -1,0 +1,17 @@
+{
+  "display": {
+      "title": "Anti TNT Spam",
+      "description": "The Anti TNT Spam Datapack blocks the ignition of multiple TNTs at once.",
+      "icon": {
+          "item": "minecraft:tnt"
+      },
+      "announce_to_chat": false,
+      "show_toast": false
+  },
+  "parent": "global:2mal3",
+  "criteria": {
+      "trigger": {
+          "trigger": "minecraft:tick"
+      }
+  }
+}
